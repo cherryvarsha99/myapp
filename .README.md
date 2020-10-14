@@ -1,0 +1,9 @@
+# myapp
+ 
+## Contributor
+ Varsha Vellanki
+ 
+ ##  Express Generator 
+ -  run the command npx express-generator --git  in powershell to generate express generator
+ - access your app in browser with localhost:3000
+ - change  required files and check by  npm start  
